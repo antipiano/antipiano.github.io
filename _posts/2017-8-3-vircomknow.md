@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The virtual commons: Knowledge
+title: The virtual commons - knowledge
 ---
 
 The mass of scientific and academic knowledge has widened to such a degree, that no single person can hope to gain a supreme perspective. It is enclosed however behind digital paywalls and enforcement of digital private property. We support right for both single peers and collectives to have the right to privacy, but scientific knowledge is not personal or confidential. Digital private property has become virtual capital for the large distributers of scientific literature. The commons thus becomes a central field of action in the struggle for radical democracy.
